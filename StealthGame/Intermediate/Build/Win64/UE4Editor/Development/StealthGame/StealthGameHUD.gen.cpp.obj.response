@@ -24,6 +24,7 @@
 /w44668
 /I E:\UE_4.17\Engine\Source
 /I E:\Unreal_Game\Stealth_Game\StealthGame\Source
+/I E:\Unreal_Game\Stealth_Game\StealthGame\Source\StealthGame\Public
 /I E:\Unreal_Game\Stealth_Game\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\StealthGame
 /I E:\Unreal_Game\Stealth_Game\StealthGame\Source\StealthGame
 /I E:\UE_4.17\Engine\Source\Runtime\Core\Public

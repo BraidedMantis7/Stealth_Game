@@ -20,8 +20,8 @@ void EmptyLinkFunctionForGeneratedCodeStealthGame_init() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), nullptr, FName(TEXT("/Script/StealthGame")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0xB94BD1B5;
-			Guid.B = 0xCDD680D1;
+			Guid.A = 0xB6ADACA7;
+			Guid.B = 0x5804A2EA;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);
